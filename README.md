@@ -1,5 +1,5 @@
 # CybersecurityAnomalyDetector
-# CybersecurityAnomalyDetector
+
 
 ## Tagline
 An AI-driven solution for autonomously detecting and responding to cybersecurity threats in real time at the end-user level.
