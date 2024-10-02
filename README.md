@@ -20,7 +20,7 @@ The Cybersecurity Anomaly Detector is an AI-based tool that detects unusual patt
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/CybersecurityAnomalyDetector.git
+  
 Install dependencies:
 bash
 Copy code
