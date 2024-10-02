@@ -17,10 +17,6 @@ The Cybersecurity Anomaly Detector is an AI-based tool that detects unusual patt
 - Scikit-learn
 - Tkinter (for GUI)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-  
 Install dependencies:
 bash
 Copy code
